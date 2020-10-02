@@ -8,5 +8,5 @@
 <h2 align='center'> Click on the image to view all my repositories </h2>
 
   <div align='center'>
-<a href = "https://github.com/bkhadka2?tab=repositories"> <img src = 'https://cdn.pixabay.com/photo/2019/02/24/03/51/iron-4016951_960_720.jpg' height = 200 width = 200> </a>
+<a href = "https://github.com/bkhadka2?tab=repositories"> <img src = 'https://cdn.pixabay.com/photo/2019/02/24/03/51/iron-4016951_960_720.jpg' height = 300 width = 350> </a>
   </div>
